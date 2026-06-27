@@ -8,13 +8,6 @@ Homebrew tap for [bbl](https://github.com/nehemiaharchives/bbl), a command line 
 brew install nehemiaharchives/bbl/bbl
 ```
 
-Or:
-
-```bash
-brew tap nehemiaharchives/bbl
-brew install bbl
-```
-
 ## Test
 
 ```bash
